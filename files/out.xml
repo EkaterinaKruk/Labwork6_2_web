@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<personXML>
+    <id>900</id>
+    <surname>Полина</surname>
+    <forename>Решетник</forename>
+    <patronymic>Александровна</patronymic>
+    <dob>2003-02-07</dob>
+    <sex>1</sex>
+    <passportSeries>АM</passportSeries>
+    <passportNumber>123456</passportNumber>
+    <city>Minsk</city>
+    <address>Kolinina</address>
+    <phoneHome>593-9000</phoneHome>
+    <phoneMobile>123-4567</phoneMobile>
+    <citizenship>BY</citizenship>
+    <dutyBound>1</dutyBound>
+</personXML>

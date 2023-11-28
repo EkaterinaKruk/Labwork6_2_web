@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<personXML>
+    <id>3</id>
+    <surname>Миша</surname>
+    <forename>Сухарев</forename>
+    <patronymic>Иванович</patronymic>
+    <dob>2004-01-01</dob>
+    <sex>1</sex>
+    <passportSeries>BM</passportSeries>
+    <passportNumber>123456</passportNumber>
+    <city>Minsk</city>
+    <address>Kolinina</address>
+    <phoneHome>593-9000</phoneHome>
+    <phoneMobile>123-4567</phoneMobile>
+    <citizenship>BY</citizenship>
+    <dutyBound>1</dutyBound>
+    <qtype>DELETE</qtype>
+</personXML>

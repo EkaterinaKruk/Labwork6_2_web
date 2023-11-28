@@ -1,0 +1,16 @@
+{
+  "id": "400",
+  "surname": "Ксения",
+  "forename": "Решетник",
+  "patronymic": "Александровна",
+  "dob": "февр. 7, 2003",
+  "sex": 1,
+  "passportSeries": "АM",
+  "passportNumber": "123456",
+  "city": "Minsk",
+  "address": "Kolinina",
+  "phoneHome": "593-9000",
+  "phoneMobile": "123-4567",
+  "citizenship": "BY",
+  "dutyBound": 1
+}

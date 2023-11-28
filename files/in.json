@@ -1,0 +1,17 @@
+{
+  "id": 4,
+  "surname": "Роман",
+  "forename": "Колников",
+  "patronymic": "Сергеевич",
+  "dob": "1990-10-09",
+  "sex": 2,
+  "passportSeries": "CR",
+  "passportNumber": 654321,
+  "city": "City",
+  "address": "Street",
+  "phoneHome": "123-4567",
+  "phoneMobile": "987-6543",
+  "citizenship": "BY",
+  "dutyBound": 1,
+  "qtype": "CREATE"
+}

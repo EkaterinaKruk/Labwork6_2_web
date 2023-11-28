@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<personXML>
+    <id>400</id>
+    <surname>Ксения</surname>
+    <forename>Решетник</forename>
+    <patronymic>Александровна</patronymic>
+    <dob>2003-02-07</dob>
+    <sex>1</sex>
+    <passportSeries>АM</passportSeries>
+    <passportNumber>123456</passportNumber>
+    <city>Minsk</city>
+    <address>Kolinina</address>
+    <phoneHome>593-9000</phoneHome>
+    <phoneMobile>123-4567</phoneMobile>
+    <citizenship>BY</citizenship>
+    <dutyBound>1</dutyBound>
+    <qtype>READ</qtype>
+</personXML>
